@@ -1,0 +1,2979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-02-17T23:30:30Z</date>
+	<key>Application Version</key><string>12.9.2.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/samwilson/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>541648EDFC1FFC05</string>
+	<key>Tracks</key>
+	<dict>
+		<key>141</key>
+		<dict>
+			<key>Track ID</key><integer>141</integer>
+			<key>Name</key><string>Future- Mask Off (Clean)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8202586</integer>
+			<key>Total Time</key><integer>205061</integer>
+			<key>Date Modified</key><date>2017-05-29T21:48:40Z</date>
+			<key>Date Added</key><date>2017-05-29T21:48:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1B2A1C4080DABBD1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/samwilson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/Future-%20Mask%20Off%20(Clean).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>143</key>
+		<dict>
+			<key>Track ID</key><integer>143</integer>
+			<key>Name</key><string>Future - Mask Off (Instrumental)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7849410</integer>
+			<key>Total Time</key><integer>196231</integer>
+			<key>Date Modified</key><date>2017-05-29T23:15:37Z</date>
+			<key>Date Added</key><date>2017-05-29T23:15:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4D635744F2DD83EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/samwilson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/Future%20-%20Mask%20Off%20(Instrumental).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>145</key>
+		<dict>
+			<key>Track ID</key><integer>145</integer>
+			<key>Name</key><string>Episode_140_Davin_Youngs_Wants_to_Find_Your_Voice</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>70291459</integer>
+			<key>Total Time</key><integer>2196480</integer>
+			<key>Date Modified</key><date>2017-06-25T22:13:08Z</date>
+			<key>Date Added</key><date>2017-06-25T22:13:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-06-25T22:13:27Z</date>
+			<key>Normalization</key><integer>1235</integer>
+			<key>Persistent ID</key><string>C337CAD4DD239CB2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/samwilson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/Episode_140_Davin_Youngs_Wants_to_Find_Your_Voice.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>147</key>
+		<dict>
+			<key>Track ID</key><integer>147</integer>
+			<key>Name</key><string>Episode_142_The_Thing_in_the_Air_-_Part_4_-_An_Introduction_to_3rd_Way</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>80087587</integer>
+			<key>Total Time</key><integer>2502608</integer>
+			<key>Date Modified</key><date>2017-06-25T22:13:26Z</date>
+			<key>Date Added</key><date>2017-06-25T22:13:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3581266339</integer>
+			<key>Play Date UTC</key><date>2017-06-26T03:12:19Z</date>
+			<key>Normalization</key><integer>1292</integer>
+			<key>Persistent ID</key><string>815BBFA130432D44</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/samwilson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/Episode_142_The_Thing_in_the_Air_-_Part_4_-_An_Introduction_to_3rd_Way.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>149</key>
+		<dict>
+			<key>Track ID</key><integer>149</integer>
+			<key>Name</key><string>Episode_141_The_Thing_in_the_Air_-_Part_3_-_The_Counter_Narrative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>95114892</integer>
+			<key>Total Time</key><integer>2972212</integer>
+			<key>Date Modified</key><date>2017-06-25T22:13:27Z</date>
+			<key>Date Added</key><date>2017-06-25T22:13:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3581259225</integer>
+			<key>Play Date UTC</key><date>2017-06-26T01:13:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-06-25T22:17:32Z</date>
+			<key>Normalization</key><integer>1269</integer>
+			<key>Persistent ID</key><string>D5052E2C21E59664</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/samwilson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/Episode_141_The_Thing_in_the_Air_-_Part_3_-_The_Counter_Narrative.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>151</key>
+		<dict>
+			<key>Track ID</key><integer>151</integer>
+			<key>Name</key><string>Episode_139_The_Thing_in_the_Air_-_Part_2_-_How_Progress_Works</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>71052145</integer>
+			<key>Total Time</key><integer>2220251</integer>
+			<key>Date Modified</key><date>2017-06-25T22:17:32Z</date>
+			<key>Date Added</key><date>2017-06-25T22:17:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1260</integer>
+			<key>Persistent ID</key><string>A64E7046E2D2C081</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/samwilson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/Episode_139_The_Thing_in_the_Air_-_Part_2_-_How_Progress_Works.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>153</key>
+		<dict>
+			<key>Track ID</key><integer>153</integer>
+			<key>Name</key><string>Wilson</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>29016702</integer>
+			<key>Total Time</key><integer>741551</integer>
+			<key>Date Modified</key><date>2018-03-15T03:19:44Z</date>
+			<key>Date Added</key><date>2018-03-15T03:19:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3611503074</integer>
+			<key>Play Date UTC</key><date>2018-06-11T02:17:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-05-23T20:46:33Z</date>
+			<key>Persistent ID</key><string>7C9CC1AC6ACEAE8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/samwilson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/Wilson.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>155</key>
+		<dict>
+			<key>Track ID</key><integer>155</integer>
+			<key>Name</key><string>Mercy Comes Softly</string>
+			<key>Artist</key><string>Ariana Warde</string>
+			<key>Composer</key><string>Ariana Warde</string>
+			<key>Album</key><string>My First Song</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6688471</integer>
+			<key>Total Time</key><integer>206933</integer>
+			<key>Date Modified</key><date>2018-06-23T02:36:58Z</date>
+			<key>Date Added</key><date>2018-06-23T02:39:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3612541365</integer>
+			<key>Play Date UTC</key><date>2018-06-23T02:42:45Z</date>
+			<key>Persistent ID</key><string>FA9C37484A083AEE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/samwilson/Music/iTunes/iTunes%20Media/Music/Ariana%20Warde/My%20First%20Song/Mercy%20Comes%20Softly.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>157</key>
+		<dict>
+			<key>Track ID</key><integer>157</integer>
+			<key>Name</key><string>recording1</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>205365</integer>
+			<key>Total Time</key><integer>5339</integer>
+			<key>Date Modified</key><date>2018-11-29T13:44:48Z</date>
+			<key>Date Added</key><date>2018-11-29T22:44:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3626347501</integer>
+			<key>Play Date UTC</key><date>2018-11-29T22:45:01Z</date>
+			<key>Persistent ID</key><string>5355CAC8FE1BB6B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/samwilson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/recording1.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>159</key>
+		<dict>
+			<key>Track ID</key><integer>159</integer>
+			<key>Name</key><string>Recording (3)</string>
+			<key>Album Artist</key><string>Voice Recorder</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>116997989</integer>
+			<key>Total Time</key><integer>5210785</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-12-12T13:48:37Z</date>
+			<key>Date Added</key><date>2018-12-12T23:24:10Z</date>
+			<key>Bit Rate</key><integer>178</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Persistent ID</key><string>C7F7C28EAC70AFB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/samwilson/Music/iTunes/iTunes%20Media/Music/Voice%20Recorder/Unknown%20Album/Recording%20(3).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>161</key>
+		<dict>
+			<key>Track ID</key><integer>161</integer>
+			<key>Name</key><string>better-not-finished</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4039764</integer>
+			<key>Total Time</key><integer>197982</integer>
+			<key>Date Modified</key><date>2019-02-13T02:40:28Z</date>
+			<key>Date Added</key><date>2019-02-13T02:40:32Z</date>
+			<key>Bit Rate</key><integer>163</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1699B0BC78BCF2C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/samwilson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/better-not-finished.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>163</key>
+		<dict>
+			<key>Track ID</key><integer>163</integer>
+			<key>Name</key><string>better-more-finished-thanbefore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4247969</integer>
+			<key>Total Time</key><integer>197982</integer>
+			<key>Date Modified</key><date>2019-02-13T03:00:35Z</date>
+			<key>Date Added</key><date>2019-02-13T03:00:36Z</date>
+			<key>Bit Rate</key><integer>171</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3632842975</integer>
+			<key>Play Date UTC</key><date>2019-02-13T03:02:55Z</date>
+			<key>Persistent ID</key><string>FE2E76D6E121C8FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/samwilson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/better-more-finished-thanbefore.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>165</key>
+		<dict>
+			<key>Track ID</key><integer>165</integer>
+			<key>Name</key><string>Set Fire to the Rain</string>
+			<key>Artist</key><string>Adele</string>
+			<key>Album Artist</key><string>Adele</string>
+			<key>Composer</key><string>Adele Adkins &#38; Fraser T. Smith</string>
+			<key>Album</key><string>21</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8550934</integer>
+			<key>Total Time</key><integer>241693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T19:17:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-24T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>21</string>
+			<key>Sort Artist</key><string>Adele</string>
+			<key>Sort Name</key><string>Set Fire to the Rain</string>
+			<key>Persistent ID</key><string>751593DB6773A753</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>167</key>
+		<dict>
+			<key>Track ID</key><integer>167</integer>
+			<key>Name</key><string>Sleep Like a Baby Tonight</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10414554</integer>
+			<key>Total Time</key><integer>301641</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-06T02:19:18Z</date>
+			<key>Date Added</key><date>2014-09-06T02:19:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Sleep Like a Baby Tonight</string>
+			<key>Persistent ID</key><string>60F370A61A5A22C3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>169</key>
+		<dict>
+			<key>Track ID</key><integer>169</integer>
+			<key>Name</key><string>Classy Girls</string>
+			<key>Artist</key><string>The Lumineers</string>
+			<key>Album Artist</key><string>The Lumineers</string>
+			<key>Composer</key><string>Wesley Schultz &#38; Jeremy Fraites</string>
+			<key>Album</key><string>The Lumineers</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5987465</integer>
+			<key>Total Time</key><integer>165933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-03-28T22:14:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lumineers</string>
+			<key>Sort Album Artist</key><string>Lumineers</string>
+			<key>Sort Artist</key><string>Lumineers</string>
+			<key>Sort Name</key><string>Classy Girls</string>
+			<key>Persistent ID</key><string>6A861D07B3700929</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>171</key>
+		<dict>
+			<key>Track ID</key><integer>171</integer>
+			<key>Name</key><string>Come Away With Me</string>
+			<key>Artist</key><string>The Intermission Project</string>
+			<key>Album Artist</key><string>The Intermission Project</string>
+			<key>Album</key><string>Sorry - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9430752</integer>
+			<key>Total Time</key><integer>269590</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-09-23T03:14:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-09-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sorry - Single</string>
+			<key>Sort Album Artist</key><string>Intermission Project</string>
+			<key>Sort Artist</key><string>Intermission Project</string>
+			<key>Sort Name</key><string>Come Away With Me</string>
+			<key>Persistent ID</key><string>55DD1F7DA64DCBB5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>173</key>
+		<dict>
+			<key>Track ID</key><integer>173</integer>
+			<key>Name</key><string>I've Been Waiting</string>
+			<key>Artist</key><string>The Intermission Project</string>
+			<key>Album Artist</key><string>The Intermission Project</string>
+			<key>Album</key><string>Sorry - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5448026</integer>
+			<key>Total Time</key><integer>147402</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-09-22T23:42:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-09-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sorry - Single</string>
+			<key>Sort Album Artist</key><string>Intermission Project</string>
+			<key>Sort Artist</key><string>Intermission Project</string>
+			<key>Sort Name</key><string>I've Been Waiting</string>
+			<key>Persistent ID</key><string>22C46AD8EC5382FB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>175</key>
+		<dict>
+			<key>Track ID</key><integer>175</integer>
+			<key>Name</key><string>Sorry</string>
+			<key>Artist</key><string>The Intermission Project</string>
+			<key>Album Artist</key><string>The Intermission Project</string>
+			<key>Album</key><string>Sorry - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6210183</integer>
+			<key>Total Time</key><integer>170092</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-09-23T03:14:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-09-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sorry - Single</string>
+			<key>Sort Album Artist</key><string>Intermission Project</string>
+			<key>Sort Artist</key><string>Intermission Project</string>
+			<key>Sort Name</key><string>Sorry</string>
+			<key>Persistent ID</key><string>1FF91A9CEA2BB28D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>177</key>
+		<dict>
+			<key>Track ID</key><integer>177</integer>
+			<key>Name</key><string>Volcano</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6904386</integer>
+			<key>Total Time</key><integer>194116</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-06T02:19:18Z</date>
+			<key>Date Added</key><date>2014-09-06T02:19:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Volcano</string>
+			<key>Persistent ID</key><string>EF8D4569066CECE6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>179</key>
+		<dict>
+			<key>Track ID</key><integer>179</integer>
+			<key>Name</key><string>Flowers In Your Hair</string>
+			<key>Artist</key><string>The Lumineers</string>
+			<key>Album Artist</key><string>The Lumineers</string>
+			<key>Composer</key><string>Wesley Schultz &#38; Jeremy Fraites</string>
+			<key>Album</key><string>The Lumineers</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>4140107</integer>
+			<key>Total Time</key><integer>109736</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-03-28T22:14:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lumineers</string>
+			<key>Sort Album Artist</key><string>Lumineers</string>
+			<key>Sort Artist</key><string>Lumineers</string>
+			<key>Sort Name</key><string>Flowers In Your Hair</string>
+			<key>Persistent ID</key><string>AECA18923ED6DACF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>181</key>
+		<dict>
+			<key>Track ID</key><integer>181</integer>
+			<key>Name</key><string>Cedarwood Road</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9336108</integer>
+			<key>Total Time</key><integer>265268</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-06T02:19:18Z</date>
+			<key>Date Added</key><date>2014-09-06T02:19:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Cedarwood Road</string>
+			<key>Persistent ID</key><string>46741A62865FBECD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>183</key>
+		<dict>
+			<key>Track ID</key><integer>183</integer>
+			<key>Name</key><string>Raised By Wolves</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8636426</integer>
+			<key>Total Time</key><integer>245599</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-06T02:19:18Z</date>
+			<key>Date Added</key><date>2014-09-06T02:19:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Raised By Wolves</string>
+			<key>Persistent ID</key><string>41180C0D78AF523E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>185</key>
+		<dict>
+			<key>Track ID</key><integer>185</integer>
+			<key>Name</key><string>The Troubles</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9928436</integer>
+			<key>Total Time</key><integer>285843</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-06T02:19:18Z</date>
+			<key>Date Added</key><date>2014-09-06T02:19:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Troubles</string>
+			<key>Persistent ID</key><string>9778B49673F67914</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>187</key>
+		<dict>
+			<key>Track ID</key><integer>187</integer>
+			<key>Name</key><string>This Is Where You Can Reach Me Now</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10715123</integer>
+			<key>Total Time</key><integer>305134</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-06T02:19:18Z</date>
+			<key>Date Added</key><date>2014-09-06T02:19:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>This Is Where You Can Reach Me Now</string>
+			<key>Persistent ID</key><string>40D88F1FF0A33A1D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>191</key>
+		<dict>
+			<key>Track ID</key><integer>191</integer>
+			<key>Name</key><string>California (There Is No End to Love)</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8465279</integer>
+			<key>Total Time</key><integer>239846</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-06T02:19:18Z</date>
+			<key>Date Added</key><date>2014-09-06T02:19:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>California (There Is No End to Love)</string>
+			<key>Persistent ID</key><string>16E741E71AC14625</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>193</key>
+		<dict>
+			<key>Track ID</key><integer>193</integer>
+			<key>Name</key><string>Every Breaking Wave</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8842208</integer>
+			<key>Total Time</key><integer>252162</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-06T02:19:18Z</date>
+			<key>Date Added</key><date>2014-09-06T02:19:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Every Breaking Wave</string>
+			<key>Persistent ID</key><string>B332CD961263093B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>195</key>
+		<dict>
+			<key>Track ID</key><integer>195</integer>
+			<key>Name</key><string>Song for Someone</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8024225</integer>
+			<key>Total Time</key><integer>226763</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-06T02:19:18Z</date>
+			<key>Date Added</key><date>2014-09-06T02:19:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Song for Someone</string>
+			<key>Persistent ID</key><string>0B92755A36787184</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>197</key>
+		<dict>
+			<key>Track ID</key><integer>197</integer>
+			<key>Name</key><string>Hometown Glory</string>
+			<key>Artist</key><string>Adele</string>
+			<key>Album Artist</key><string>Adele</string>
+			<key>Composer</key><string>Adele Adkins</string>
+			<key>Album</key><string>19</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9940848</integer>
+			<key>Total Time</key><integer>271227</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T19:16:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-10-22T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>19</string>
+			<key>Sort Artist</key><string>Adele</string>
+			<key>Sort Name</key><string>Hometown Glory</string>
+			<key>Persistent ID</key><string>225DB255FF955C6A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>199</key>
+		<dict>
+			<key>Track ID</key><integer>199</integer>
+			<key>Name</key><string>The Miracle (Of Joey Ramone)</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9300291</integer>
+			<key>Total Time</key><integer>255382</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-06T02:19:18Z</date>
+			<key>Date Added</key><date>2014-09-06T02:19:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Miracle (Of Joey Ramone)</string>
+			<key>Persistent ID</key><string>523C4D4C4E2F2F71</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>201</key>
+		<dict>
+			<key>Track ID</key><integer>201</integer>
+			<key>Name</key><string>How He Loves (Radio Version)</string>
+			<key>Artist</key><string>David Crowder Band</string>
+			<key>Album Artist</key><string>David Crowder Band</string>
+			<key>Composer</key><string>John Mark McMillan</string>
+			<key>Album</key><string>All This for a King: The Essential Collection</string>
+			<key>Genre</key><string>Christian &#38; Gospel</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8632791</integer>
+			<key>Total Time</key><integer>244606</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-07-31T19:33:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-06-23T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>All This for a King: The Essential Collection</string>
+			<key>Sort Artist</key><string>David Crowder Band</string>
+			<key>Sort Name</key><string>How He Loves (Radio Version)</string>
+			<key>Persistent ID</key><string>1B11306229E6D56D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>203</key>
+		<dict>
+			<key>Track ID</key><integer>203</integer>
+			<key>Name</key><string>Iris (Hold Me Close)</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11149865</integer>
+			<key>Total Time</key><integer>319457</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-06T02:19:18Z</date>
+			<key>Date Added</key><date>2014-09-06T02:19:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Iris (Hold Me Close)</string>
+			<key>Persistent ID</key><string>B2A548DDC3CF226D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>205</key>
+		<dict>
+			<key>Track ID</key><integer>205</integer>
+			<key>Name</key><string>Hey Ya (Live)</string>
+			<key>Artist</key><string>Obadiah Parker</string>
+			<key>Album Artist</key><string>Obadiah Parker</string>
+			<key>Composer</key><string>André Benjamin</string>
+			<key>Album</key><string>Obadiah Parker (Live)</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9362675</integer>
+			<key>Total Time</key><integer>267547</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-07-26T20:00:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2006-01-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Obadiah Parker</string>
+			<key>Sort Artist</key><string>Obadiah Parker</string>
+			<key>Sort Name</key><string>Hey Ya (Live)</string>
+			<key>Persistent ID</key><string>FF4CD97191893FA5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>207</key>
+		<dict>
+			<key>Track ID</key><integer>207</integer>
+			<key>Name</key><string>Stay With Me</string>
+			<key>Artist</key><string>Sam Smith</string>
+			<key>Album Artist</key><string>Sam Smith</string>
+			<key>Composer</key><string>Sam Smith, James Napier &#38; William Phillips</string>
+			<key>Album</key><string>In the Lonely Hour (Deluxe Version)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6262338</integer>
+			<key>Total Time</key><integer>172724</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-07-10T05:03:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-04-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In the Lonely Hour (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Sam Smith</string>
+			<key>Sort Name</key><string>Stay With Me</string>
+			<key>Persistent ID</key><string>2D6125BA736859B6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>209</key>
+		<dict>
+			<key>Track ID</key><integer>209</integer>
+			<key>Name</key><string>Stop Signs</string>
+			<key>Artist</key><string>Shane Koyczan and the Short Story Long</string>
+			<key>Album Artist</key><string>Shane Koyczan and the Short Story Long</string>
+			<key>Composer</key><string>Shane Koyczan</string>
+			<key>Album</key><string>A Pretty Decent Cape In My Closet</string>
+			<key>Genre</key><string>Spoken Word</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>14294725</integer>
+			<key>Total Time</key><integer>424493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-11-02T21:30:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pretty Decent Cape In My Closet</string>
+			<key>Sort Artist</key><string>Shane Koyczan and the Short Story Long</string>
+			<key>Sort Name</key><string>Stop Signs</string>
+			<key>Persistent ID</key><string>BEB27421D1F74EF2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>211</key>
+		<dict>
+			<key>Track ID</key><integer>211</integer>
+			<key>Name</key><string>Put Your Records On</string>
+			<key>Artist</key><string>Corinne Bailey Rae</string>
+			<key>Album Artist</key><string>Corinne Bailey Rae</string>
+			<key>Album</key><string>Corinne Bailey Rae</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7517205</integer>
+			<key>Total Time</key><integer>215360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-07-13T23:28:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2006-02-20T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Corinne Bailey Rae</string>
+			<key>Sort Artist</key><string>Corinne Bailey Rae</string>
+			<key>Sort Name</key><string>Put Your Records On</string>
+			<key>Persistent ID</key><string>19AC015A2E156883</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>213</key>
+		<dict>
+			<key>Track ID</key><integer>213</integer>
+			<key>Name</key><string>Up in Flames</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Brian Eno, Chris Martin, Guy Berryman, Will Champion, Jonny Buckland, Chris Martin, Guy Berryman, Jonny Buckland &#38; Will Champion</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7033913</integer>
+			<key>Total Time</key><integer>193240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-08-24T15:27:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-10-24T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mylo Xyloto</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>Up in Flames</string>
+			<key>Persistent ID</key><string>4A37481363904D63</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>215</key>
+		<dict>
+			<key>Track ID</key><integer>215</integer>
+			<key>Name</key><string>King and Lionheart</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters and Men</string>
+			<key>Composer</key><string>Nanna Brynd Hilmarsdtir</string>
+			<key>Album</key><string>My Head Is an Animal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10063544</integer>
+			<key>Total Time</key><integer>273867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T17:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Head Is an Animal</string>
+			<key>Sort Artist</key><string>Of Monsters and Men</string>
+			<key>Sort Name</key><string>King and Lionheart</string>
+			<key>Persistent ID</key><string>852BE723456FF097</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>217</key>
+		<dict>
+			<key>Track ID</key><integer>217</integer>
+			<key>Name</key><string>Flapper Girl</string>
+			<key>Artist</key><string>The Lumineers</string>
+			<key>Album Artist</key><string>The Lumineers</string>
+			<key>Composer</key><string>Wesley Schultz &#38; Jeremy Fraites</string>
+			<key>Album</key><string>The Lumineers</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6948539</integer>
+			<key>Total Time</key><integer>195173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-03-28T22:14:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lumineers</string>
+			<key>Sort Album Artist</key><string>Lumineers</string>
+			<key>Sort Artist</key><string>Lumineers</string>
+			<key>Sort Name</key><string>Flapper Girl</string>
+			<key>Persistent ID</key><string>606221B4099B31EE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>219</key>
+		<dict>
+			<key>Track ID</key><integer>219</integer>
+			<key>Name</key><string>Lakehouse</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters and Men</string>
+			<key>Composer</key><string>Nanna Brynd Hilmarsdtir, Ragnar rhallsson &#38; Brynjar Leifsson</string>
+			<key>Album</key><string>My Head Is an Animal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9752464</integer>
+			<key>Total Time</key><integer>274960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T17:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Head Is an Animal</string>
+			<key>Sort Artist</key><string>Of Monsters and Men</string>
+			<key>Sort Name</key><string>Lakehouse</string>
+			<key>Persistent ID</key><string>536453BE444443EF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>221</key>
+		<dict>
+			<key>Track ID</key><integer>221</integer>
+			<key>Name</key><string>Morning Song</string>
+			<key>Artist</key><string>The Lumineers</string>
+			<key>Album Artist</key><string>The Lumineers</string>
+			<key>Composer</key><string>Wesley Schultz &#38; Jeremy Fraites</string>
+			<key>Album</key><string>The Lumineers</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10873881</integer>
+			<key>Total Time</key><integer>316358</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-03-28T22:14:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lumineers</string>
+			<key>Sort Album Artist</key><string>Lumineers</string>
+			<key>Sort Artist</key><string>Lumineers</string>
+			<key>Sort Name</key><string>Morning Song</string>
+			<key>Persistent ID</key><string>DD07C12FC3E73502</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>223</key>
+		<dict>
+			<key>Track ID</key><integer>223</integer>
+			<key>Name</key><string>Yellow Light</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters and Men</string>
+			<key>Composer</key><string>Ragnar rhallsson</string>
+			<key>Album</key><string>My Head Is an Animal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10455390</integer>
+			<key>Total Time</key><integer>294707</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T17:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Head Is an Animal</string>
+			<key>Sort Artist</key><string>Of Monsters and Men</string>
+			<key>Sort Name</key><string>Yellow Light</string>
+			<key>Persistent ID</key><string>31EE9197914BF932</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>225</key>
+		<dict>
+			<key>Track ID</key><integer>225</integer>
+			<key>Name</key><string>Fast Car (feat. Kina Grannis)</string>
+			<key>Artist</key><string>Boyce Avenue</string>
+			<key>Album Artist</key><string>Boyce Avenue</string>
+			<key>Album</key><string>Cover Collaborations, Vol. 1</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11309330</integer>
+			<key>Total Time</key><integer>304293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-07-26T20:30:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-12-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Cover Collaborations, Vol. 1</string>
+			<key>Sort Artist</key><string>Boyce Avenue</string>
+			<key>Sort Name</key><string>Fast Car (feat. Kina Grannis)</string>
+			<key>Persistent ID</key><string>03233BECE6829F75</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>227</key>
+		<dict>
+			<key>Track ID</key><integer>227</integer>
+			<key>Name</key><string>Charlie Boy</string>
+			<key>Artist</key><string>The Lumineers</string>
+			<key>Album Artist</key><string>The Lumineers</string>
+			<key>Composer</key><string>Wesley Schultz &#38; Jeremy Fraites</string>
+			<key>Album</key><string>The Lumineers</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9173156</integer>
+			<key>Total Time</key><integer>261427</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-03-28T22:14:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lumineers</string>
+			<key>Sort Album Artist</key><string>Lumineers</string>
+			<key>Sort Artist</key><string>Lumineers</string>
+			<key>Sort Name</key><string>Charlie Boy</string>
+			<key>Persistent ID</key><string>D36C10BA3E5A938B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>229</key>
+		<dict>
+			<key>Track ID</key><integer>229</integer>
+			<key>Name</key><string>Numb Bears</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters and Men</string>
+			<key>Composer</key><string>Ragnar rhallsson &#38; Arnar Renkranz Hilmarsson</string>
+			<key>Album</key><string>My Head Is an Animal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5921622</integer>
+			<key>Total Time</key><integer>164280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T17:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Head Is an Animal</string>
+			<key>Sort Artist</key><string>Of Monsters and Men</string>
+			<key>Sort Name</key><string>Numb Bears</string>
+			<key>Persistent ID</key><string>ABBB722FFDD8AB48</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>231</key>
+		<dict>
+			<key>Track ID</key><integer>231</integer>
+			<key>Name</key><string>Little Talks</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters and Men</string>
+			<key>Album</key><string>My Head Is an Animal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased MPEG-4 video file</string>
+			<key>Size</key><integer>57723219</integer>
+			<key>Total Time</key><integer>254142</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T17:26:34Z</date>
+			<key>Release Date</key><date>2012-01-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Head Is an Animal</string>
+			<key>Sort Artist</key><string>Of Monsters and Men</string>
+			<key>Sort Name</key><string>Little Talks</string>
+			<key>Persistent ID</key><string>0212D5889D44A9CA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Music Video</key><true/>
+		</dict>
+		<key>233</key>
+		<dict>
+			<key>Track ID</key><integer>233</integer>
+			<key>Name</key><string>Sloom</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters and Men</string>
+			<key>Composer</key><string>Arnar Renkranz Hilmarsson &#38; Nanna Bryndís Hilmarsdóttir</string>
+			<key>Album</key><string>My Head Is an Animal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10284600</integer>
+			<key>Total Time</key><integer>283987</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T17:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Head Is an Animal</string>
+			<key>Sort Artist</key><string>Of Monsters and Men</string>
+			<key>Sort Name</key><string>Sloom</string>
+			<key>Persistent ID</key><string>118C82C9D6ABAA3C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>235</key>
+		<dict>
+			<key>Track ID</key><integer>235</integer>
+			<key>Name</key><string>Dirty Paws</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters and Men</string>
+			<key>Composer</key><string>Nanna Brynd Hilmarsdtir &#38; Ragnar rhallsson</string>
+			<key>Album</key><string>My Head Is an Animal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9902663</integer>
+			<key>Total Time</key><integer>278293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T17:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Head Is an Animal</string>
+			<key>Sort Artist</key><string>Of Monsters and Men</string>
+			<key>Sort Name</key><string>Dirty Paws</string>
+			<key>Persistent ID</key><string>4087EE1F9C526010</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>237</key>
+		<dict>
+			<key>Track ID</key><integer>237</integer>
+			<key>Name</key><string>Little Talks</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters and Men</string>
+			<key>Composer</key><string>Nanna Bryndís Hilmarsdóttir &#38; Ragnar Þórhallsson</string>
+			<key>Album</key><string>My Head Is an Animal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9419023</integer>
+			<key>Total Time</key><integer>266640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T17:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Head Is an Animal</string>
+			<key>Sort Artist</key><string>Of Monsters and Men</string>
+			<key>Sort Name</key><string>Little Talks</string>
+			<key>Persistent ID</key><string>41DB438A63836720</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>239</key>
+		<dict>
+			<key>Track ID</key><integer>239</integer>
+			<key>Name</key><string>Submarines</string>
+			<key>Artist</key><string>The Lumineers</string>
+			<key>Album Artist</key><string>The Lumineers</string>
+			<key>Composer</key><string>Wesley Schultz &#38; Jeremy Fraites</string>
+			<key>Album</key><string>The Lumineers</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5884403</integer>
+			<key>Total Time</key><integer>163240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-03-28T22:14:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lumineers</string>
+			<key>Sort Album Artist</key><string>Lumineers</string>
+			<key>Sort Artist</key><string>Lumineers</string>
+			<key>Sort Name</key><string>Submarines</string>
+			<key>Persistent ID</key><string>53121B9EE2576879</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>241</key>
+		<dict>
+			<key>Track ID</key><integer>241</integer>
+			<key>Name</key><string>Waiting for My Real Life to Begin (Album Version)</string>
+			<key>Artist</key><string>Colin Hay</string>
+			<key>Album Artist</key><string>Colin Hay</string>
+			<key>Album</key><string>Going Somewhere (Extended Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>12200729</integer>
+			<key>Total Time</key><integer>346213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-11-10T22:01:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2000-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Going Somewhere (Extended Version)</string>
+			<key>Sort Artist</key><string>Colin Hay</string>
+			<key>Sort Name</key><string>Waiting for My Real Life to Begin (Album Version)</string>
+			<key>Persistent ID</key><string>D32E0E3F5E9613EA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>243</key>
+		<dict>
+			<key>Track ID</key><integer>243</integer>
+			<key>Name</key><string>All of Me</string>
+			<key>Artist</key><string>John Legend</string>
+			<key>Album Artist</key><string>John Legend</string>
+			<key>Composer</key><string>John Stephens &#38; Toby Gad</string>
+			<key>Album</key><string>Love in the Future (Deluxe Edition)</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9459877</integer>
+			<key>Total Time</key><integer>269557</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-04-03T03:05:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-08-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love in the Future (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>John Legend</string>
+			<key>Sort Name</key><string>All of Me</string>
+			<key>Persistent ID</key><string>54E1D9F69C6D5A38</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>245</key>
+		<dict>
+			<key>Track ID</key><integer>245</integer>
+			<key>Name</key><string>Rolling in the Deep</string>
+			<key>Artist</key><string>Adele</string>
+			<key>Album Artist</key><string>Adele</string>
+			<key>Composer</key><string>Adele Adkins &#38; Paul Epworth</string>
+			<key>Album</key><string>21</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8054375</integer>
+			<key>Total Time</key><integer>228293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T19:16:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-11-29T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>21</string>
+			<key>Sort Artist</key><string>Adele</string>
+			<key>Sort Name</key><string>Rolling in the Deep</string>
+			<key>Persistent ID</key><string>EDCDA8171F7978F0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>247</key>
+		<dict>
+			<key>Track ID</key><integer>247</integer>
+			<key>Name</key><string>Turning Tables</string>
+			<key>Artist</key><string>Adele</string>
+			<key>Album Artist</key><string>Adele</string>
+			<key>Composer</key><string>Adele Adkins &#38; Ryan Tedder</string>
+			<key>Album</key><string>21</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8789011</integer>
+			<key>Total Time</key><integer>250133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T19:16:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-01-24T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>21</string>
+			<key>Sort Artist</key><string>Adele</string>
+			<key>Sort Name</key><string>Turning Tables</string>
+			<key>Persistent ID</key><string>8239FC2EDF9CD256</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>249</key>
+		<dict>
+			<key>Track ID</key><integer>249</integer>
+			<key>Name</key><string>From Finner</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters and Men</string>
+			<key>Composer</key><string>Brynjar Leifsson, Arnar Rósenkranz Hilmarsson, Nanna Bryndís Hilmarsdóttir &#38; Ragnar Þórhallsson</string>
+			<key>Album</key><string>My Head Is an Animal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8477897</integer>
+			<key>Total Time</key><integer>223320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T17:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Head Is an Animal</string>
+			<key>Sort Artist</key><string>Of Monsters and Men</string>
+			<key>Sort Name</key><string>From Finner</string>
+			<key>Persistent ID</key><string>45D1C20B6BE2B50C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>251</key>
+		<dict>
+			<key>Track ID</key><integer>251</integer>
+			<key>Name</key><string>Big Parade</string>
+			<key>Artist</key><string>The Lumineers</string>
+			<key>Album Artist</key><string>The Lumineers</string>
+			<key>Composer</key><string>Wesley Schultz &#38; Jeremy Fraites</string>
+			<key>Album</key><string>The Lumineers</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11270331</integer>
+			<key>Total Time</key><integer>327733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-03-28T22:14:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lumineers</string>
+			<key>Sort Album Artist</key><string>Lumineers</string>
+			<key>Sort Artist</key><string>Lumineers</string>
+			<key>Sort Name</key><string>Big Parade</string>
+			<key>Persistent ID</key><string>7B4316A434A4CA1E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>253</key>
+		<dict>
+			<key>Track ID</key><integer>253</integer>
+			<key>Name</key><string>Stubborn Love</string>
+			<key>Artist</key><string>The Lumineers</string>
+			<key>Album Artist</key><string>The Lumineers</string>
+			<key>Composer</key><string>Wesley Schultz &#38; Jeremy Fraites</string>
+			<key>Album</key><string>The Lumineers</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9685407</integer>
+			<key>Total Time</key><integer>279000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-03-28T22:14:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lumineers</string>
+			<key>Sort Album Artist</key><string>Lumineers</string>
+			<key>Sort Artist</key><string>Lumineers</string>
+			<key>Sort Name</key><string>Stubborn Love</string>
+			<key>Persistent ID</key><string>EE91E274AD58EC39</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>255</key>
+		<dict>
+			<key>Track ID</key><integer>255</integer>
+			<key>Name</key><string>Goodbye In Her Eyes</string>
+			<key>Artist</key><string>Zac Brown Band</string>
+			<key>Album Artist</key><string>Zac Brown Band</string>
+			<key>Composer</key><string>John Driskell Hopkins, Sonia Leigh, Wyatt Durrette &#38; Zac Brown</string>
+			<key>Album</key><string>Uncaged</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11211122</integer>
+			<key>Total Time</key><integer>324721</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T19:18:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-07-03T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Uncaged</string>
+			<key>Sort Artist</key><string>Zac Brown Band</string>
+			<key>Sort Name</key><string>Goodbye In Her Eyes</string>
+			<key>Persistent ID</key><string>3258412A85A66EB2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>257</key>
+		<dict>
+			<key>Track ID</key><integer>257</integer>
+			<key>Name</key><string>Ain't It Fun</string>
+			<key>Artist</key><string>Paramore</string>
+			<key>Album Artist</key><string>Paramore</string>
+			<key>Composer</key><string>Hayley Williams &#38; Taylor York</string>
+			<key>Album</key><string>Paramore</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10389425</integer>
+			<key>Total Time</key><integer>296508</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-07-15T22:41:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-04-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Paramore</string>
+			<key>Sort Artist</key><string>Paramore</string>
+			<key>Sort Name</key><string>Ain't It Fun</string>
+			<key>Persistent ID</key><string>442EE759AEDBB4D1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>259</key>
+		<dict>
+			<key>Track ID</key><integer>259</integer>
+			<key>Name</key><string>Slow It Down</string>
+			<key>Artist</key><string>The Lumineers</string>
+			<key>Album Artist</key><string>The Lumineers</string>
+			<key>Composer</key><string>Wesley Schultz &#38; Jeremy Fraites</string>
+			<key>Album</key><string>The Lumineers</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10581278</integer>
+			<key>Total Time</key><integer>307000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-03-28T22:14:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lumineers</string>
+			<key>Sort Album Artist</key><string>Lumineers</string>
+			<key>Sort Artist</key><string>Lumineers</string>
+			<key>Sort Name</key><string>Slow It Down</string>
+			<key>Persistent ID</key><string>09EAE20042DAA4F5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>261</key>
+		<dict>
+			<key>Track ID</key><integer>261</integer>
+			<key>Name</key><string>Dead Sea</string>
+			<key>Artist</key><string>The Lumineers</string>
+			<key>Album Artist</key><string>The Lumineers</string>
+			<key>Composer</key><string>Wesley Schultz &#38; Jeremy Fraites</string>
+			<key>Album</key><string>The Lumineers</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8763562</integer>
+			<key>Total Time</key><integer>247933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-03-28T22:14:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lumineers</string>
+			<key>Sort Album Artist</key><string>Lumineers</string>
+			<key>Sort Artist</key><string>Lumineers</string>
+			<key>Sort Name</key><string>Dead Sea</string>
+			<key>Persistent ID</key><string>D67BC12E37ED1485</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>263</key>
+		<dict>
+			<key>Track ID</key><integer>263</integer>
+			<key>Name</key><string>Mountain Sound</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters and Men</string>
+			<key>Composer</key><string>Nanna Brynd Hilmarsdtir, Ragnar rhallsson &#38; Arnar Renkranz Hilmarsson</string>
+			<key>Album</key><string>My Head Is an Animal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7799098</integer>
+			<key>Total Time</key><integer>211520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T17:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Head Is an Animal</string>
+			<key>Sort Artist</key><string>Of Monsters and Men</string>
+			<key>Sort Name</key><string>Mountain Sound</string>
+			<key>Persistent ID</key><string>A6663CD115C7D341</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>265</key>
+		<dict>
+			<key>Track ID</key><integer>265</integer>
+			<key>Name</key><string>Ho Hey</string>
+			<key>Artist</key><string>The Lumineers</string>
+			<key>Album Artist</key><string>The Lumineers</string>
+			<key>Composer</key><string>Wesley Schultz &#38; Jeremy Fraites</string>
+			<key>Album</key><string>The Lumineers</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5879282</integer>
+			<key>Total Time</key><integer>163133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-03-28T22:14:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lumineers</string>
+			<key>Sort Album Artist</key><string>Lumineers</string>
+			<key>Sort Artist</key><string>Lumineers</string>
+			<key>Sort Name</key><string>Ho Hey</string>
+			<key>Persistent ID</key><string>95A04492B5D7A5FF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>267</key>
+		<dict>
+			<key>Track ID</key><integer>267</integer>
+			<key>Name</key><string>Slow and Steady</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters and Men</string>
+			<key>Composer</key><string>Ragnar rhallsson, Nanna Brynd Hilmarsdtir, Kristj Pl Kristjsson, Arnar Renkranz Hilmarsson, Árni Guðjónsson Gusson &#38; Brynjar Leifsson</string>
+			<key>Album</key><string>My Head Is an Animal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10663940</integer>
+			<key>Total Time</key><integer>301733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T17:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Head Is an Animal</string>
+			<key>Sort Artist</key><string>Of Monsters and Men</string>
+			<key>Sort Name</key><string>Slow and Steady</string>
+			<key>Persistent ID</key><string>ADC735CEA2CC8DB7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>269</key>
+		<dict>
+			<key>Track ID</key><integer>269</integer>
+			<key>Name</key><string>Reminder</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Mumford &#38; Sons</string>
+			<key>Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>4617815</integer>
+			<key>Total Time</key><integer>124347</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T18:31:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-09-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Mumford &#38; Sons</string>
+			<key>Sort Name</key><string>Reminder</string>
+			<key>Persistent ID</key><string>4BB75C7F3381D153</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>271</key>
+		<dict>
+			<key>Track ID</key><integer>271</integer>
+			<key>Name</key><string>Hopeless Wanderer</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Mumford &#38; Sons</string>
+			<key>Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11221203</integer>
+			<key>Total Time</key><integer>307853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T18:31:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-09-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Mumford &#38; Sons</string>
+			<key>Sort Name</key><string>Hopeless Wanderer</string>
+			<key>Persistent ID</key><string>9011D0B3B2B1F9C0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>273</key>
+		<dict>
+			<key>Track ID</key><integer>273</integer>
+			<key>Name</key><string>See You Soon</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jonny Buckland &#38; Will Champion</string>
+			<key>Album</key><string>The Blue Room - EP</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6098309</integer>
+			<key>Total Time</key><integer>171373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-07-19T22:38:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1999-10-11T07:00:00Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blue Room - EP</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>See You Soon</string>
+			<key>Persistent ID</key><string>008654A5F34F1284</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>275</key>
+		<dict>
+			<key>Track ID</key><integer>275</integer>
+			<key>Name</key><string>Broken Crown</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Mumford &#38; Sons</string>
+			<key>Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8915420</integer>
+			<key>Total Time</key><integer>256398</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T18:31:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-09-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Mumford &#38; Sons</string>
+			<key>Sort Name</key><string>Broken Crown</string>
+			<key>Persistent ID</key><string>5B3C8EA83F71AA10</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>277</key>
+		<dict>
+			<key>Track ID</key><integer>277</integer>
+			<key>Name</key><string>Free</string>
+			<key>Artist</key><string>Zac Brown Band</string>
+			<key>Album Artist</key><string>Zac Brown Band</string>
+			<key>Composer</key><string>Zac Brown</string>
+			<key>Album</key><string>The Foundation (Deluxe Version)</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8174005</integer>
+			<key>Total Time</key><integer>228653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T19:18:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-11-17T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Foundation (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Zac Brown Band</string>
+			<key>Sort Name</key><string>Free</string>
+			<key>Persistent ID</key><string>04322B8A9F43D1D9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>279</key>
+		<dict>
+			<key>Track ID</key><integer>279</integer>
+			<key>Name</key><string>Lover of the Light</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Mumford &#38; Sons</string>
+			<key>Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10975207</integer>
+			<key>Total Time</key><integer>314787</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T18:31:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-09-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Mumford &#38; Sons</string>
+			<key>Sort Name</key><string>Lover of the Light</string>
+			<key>Persistent ID</key><string>A5CD1CAE1B053523</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>281</key>
+		<dict>
+			<key>Track ID</key><integer>281</integer>
+			<key>Name</key><string>Chicken Fried</string>
+			<key>Artist</key><string>Zac Brown Band</string>
+			<key>Album Artist</key><string>Zac Brown Band</string>
+			<key>Composer</key><string>Zac Brown Band, Wyatt Durrette &#38; Zac Brown</string>
+			<key>Album</key><string>The Foundation (Deluxe Version)</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8351615</integer>
+			<key>Total Time</key><integer>237093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T19:17:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-06-16T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Foundation (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Zac Brown Band</string>
+			<key>Sort Name</key><string>Chicken Fried</string>
+			<key>Persistent ID</key><string>E28740EDF73FD15A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>283</key>
+		<dict>
+			<key>Track ID</key><integer>283</integer>
+			<key>Name</key><string>Lovers' Eyes</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Mumford &#38; Sons</string>
+			<key>Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11627834</integer>
+			<key>Total Time</key><integer>321227</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T18:31:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-09-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Mumford &#38; Sons</string>
+			<key>Sort Name</key><string>Lovers' Eyes</string>
+			<key>Persistent ID</key><string>7E6A66E996AA4841</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>285</key>
+		<dict>
+			<key>Track ID</key><integer>285</integer>
+			<key>Name</key><string>Where Are You Now (Bonus Track)</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Mumford &#38; Sons</string>
+			<key>Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7734869</integer>
+			<key>Total Time</key><integer>219609</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T18:31:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-09-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Mumford &#38; Sons</string>
+			<key>Sort Name</key><string>Where Are You Now (Bonus Track)</string>
+			<key>Persistent ID</key><string>5DD63E95DE6A526D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>287</key>
+		<dict>
+			<key>Track ID</key><integer>287</integer>
+			<key>Name</key><string>Below My Feet</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Mumford &#38; Sons</string>
+			<key>Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10008851</integer>
+			<key>Total Time</key><integer>292174</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T18:31:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-09-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Mumford &#38; Sons</string>
+			<key>Sort Name</key><string>Below My Feet</string>
+			<key>Persistent ID</key><string>A23D3142278042E0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>289</key>
+		<dict>
+			<key>Track ID</key><integer>289</integer>
+			<key>Name</key><string>Not With Haste</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Mumford &#38; Sons</string>
+			<key>Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8766759</integer>
+			<key>Total Time</key><integer>247039</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T18:31:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-09-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Mumford &#38; Sons</string>
+			<key>Sort Name</key><string>Not With Haste</string>
+			<key>Persistent ID</key><string>81B64251E70B95EF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>291</key>
+		<dict>
+			<key>Track ID</key><integer>291</integer>
+			<key>Name</key><string>For Those Below (Bonus Track)</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Mumford &#38; Sons</string>
+			<key>Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7735675</integer>
+			<key>Total Time</key><integer>215837</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T18:31:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-09-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Mumford &#38; Sons</string>
+			<key>Sort Name</key><string>For Those Below (Bonus Track)</string>
+			<key>Persistent ID</key><string>797F6857FEA29F99</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>293</key>
+		<dict>
+			<key>Track ID</key><integer>293</integer>
+			<key>Name</key><string>The Boxer (feat. Jerry Douglas &#38; Paul Simon) [Bonus Track]</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Paul Simon</string>
+			<key>Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8778828</integer>
+			<key>Total Time</key><integer>245229</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T18:31:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-09-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Mumford &#38; Sons</string>
+			<key>Sort Name</key><string>Boxer (feat. Jerry Douglas &#38; Paul Simon) [Bonus Track]</string>
+			<key>Persistent ID</key><string>56C31FE1F4924AF9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>295</key>
+		<dict>
+			<key>Track ID</key><integer>295</integer>
+			<key>Name</key><string>How To Save a Life (feat. Max Schneider) [Acoustic]</string>
+			<key>Artist</key><string>Tyler Ward</string>
+			<key>Album Artist</key><string>Tyler Ward</string>
+			<key>Composer</key><string>Isaac Slade &#38; Joe King</string>
+			<key>Album</key><string>How To Save a Life (feat. Max Schneider) [Acoustic] - Single</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6428459</integer>
+			<key>Total Time</key><integer>179024</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-07-08T07:13:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-10-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>How To Save a Life (feat. Max Schneider) [Acoustic] - Single</string>
+			<key>Sort Artist</key><string>Tyler Ward</string>
+			<key>Sort Name</key><string>How To Save a Life (feat. Max Schneider) [Acoustic]</string>
+			<key>Persistent ID</key><string>0AE6F903A77BCC8C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>297</key>
+		<dict>
+			<key>Track ID</key><integer>297</integer>
+			<key>Name</key><string>Chasing Pavements</string>
+			<key>Artist</key><string>Adele</string>
+			<key>Album Artist</key><string>Adele</string>
+			<key>Composer</key><string>Adele Adkins &#38; Francis "Eg" White</string>
+			<key>Album</key><string>19</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7465392</integer>
+			<key>Total Time</key><integer>210507</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T19:16:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-01-14T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>19</string>
+			<key>Sort Artist</key><string>Adele</string>
+			<key>Sort Name</key><string>Chasing Pavements</string>
+			<key>Persistent ID</key><string>C06B97FEACF3A7D9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>299</key>
+		<dict>
+			<key>Track ID</key><integer>299</integer>
+			<key>Name</key><string>Babel</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Mumford &#38; Sons</string>
+			<key>Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7474628</integer>
+			<key>Total Time</key><integer>207934</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T18:31:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-09-21T12:00:00Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Mumford &#38; Sons</string>
+			<key>Sort Name</key><string>Babel</string>
+			<key>Persistent ID</key><string>3D005BB8E72BD7D5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>301</key>
+		<dict>
+			<key>Track ID</key><integer>301</integer>
+			<key>Name</key><string>More Often Than Sometimes</string>
+			<key>Artist</key><string>Shane Koyczan and the Short Story Long</string>
+			<key>Album Artist</key><string>Shane Koyczan and the Short Story Long</string>
+			<key>Composer</key><string>Shane Koyczan &#38; The Short Story Long</string>
+			<key>Album</key><string>Remembrance Year</string>
+			<key>Genre</key><string>Spoken Word</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>12024986</integer>
+			<key>Total Time</key><integer>349960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-11-02T21:31:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-03-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Remembrance Year</string>
+			<key>Sort Artist</key><string>Shane Koyczan and the Short Story Long</string>
+			<key>Sort Name</key><string>More Often Than Sometimes</string>
+			<key>Persistent ID</key><string>86CB7252F19AC6AB</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>303</key>
+		<dict>
+			<key>Track ID</key><integer>303</integer>
+			<key>Name</key><string>New Soul</string>
+			<key>Artist</key><string>Yael Naïm</string>
+			<key>Album Artist</key><string>Yael Naïm</string>
+			<key>Album</key><string>Yael Naïm</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8098040</integer>
+			<key>Total Time</key><integer>225107</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-07-13T23:30:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-10-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Yael Naïm</string>
+			<key>Sort Artist</key><string>Yael Naïm</string>
+			<key>Sort Name</key><string>New Soul</string>
+			<key>Persistent ID</key><string>0F02E66FF6E14CCF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>305</key>
+		<dict>
+			<key>Track ID</key><integer>305</integer>
+			<key>Name</key><string>Restaurant</string>
+			<key>Artist</key><string>Shane Koyczan and the Short Story Long</string>
+			<key>Album Artist</key><string>Shane Koyczan and the Short Story Long</string>
+			<key>Composer</key><string>Shane Koyczan &#38; The Short Story Long</string>
+			<key>Album</key><string>Remembrance Year</string>
+			<key>Genre</key><string>Spoken Word</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>15771072</integer>
+			<key>Total Time</key><integer>465213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-11-02T21:31:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-03-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Remembrance Year</string>
+			<key>Sort Artist</key><string>Shane Koyczan and the Short Story Long</string>
+			<key>Sort Name</key><string>Restaurant</string>
+			<key>Persistent ID</key><string>708639CFBEA4452D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>307</key>
+		<dict>
+			<key>Track ID</key><integer>307</integer>
+			<key>Name</key><string>Make You Feel My Love</string>
+			<key>Artist</key><string>Adele</string>
+			<key>Album Artist</key><string>Adele</string>
+			<key>Composer</key><string>Bob Dylan</string>
+			<key>Album</key><string>19</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7520883</integer>
+			<key>Total Time</key><integer>212040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T19:16:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-01-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>19</string>
+			<key>Sort Artist</key><string>Adele</string>
+			<key>Sort Name</key><string>Make You Feel My Love</string>
+			<key>Persistent ID</key><string>B552C7E828DF80A3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>309</key>
+		<dict>
+			<key>Track ID</key><integer>309</integer>
+			<key>Name</key><string>Whispers In the Dark</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Mumford &#38; Sons</string>
+			<key>Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6989631</integer>
+			<key>Total Time</key><integer>195867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T18:31:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-09-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Mumford &#38; Sons</string>
+			<key>Sort Name</key><string>Whispers In the Dark</string>
+			<key>Persistent ID</key><string>A8F1004BC9FC87F2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>311</key>
+		<dict>
+			<key>Track ID</key><integer>311</integer>
+			<key>Name</key><string>Love and Hate</string>
+			<key>Artist</key><string>Daphne Willis</string>
+			<key>Album Artist</key><string>Daphne Willis</string>
+			<key>Composer</key><string>Daphne Willis</string>
+			<key>Album</key><string>What to Say</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6493499</integer>
+			<key>Total Time</key><integer>178987</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2015-09-27T00:22:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-02-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>What to Say</string>
+			<key>Sort Artist</key><string>Daphne Willis</string>
+			<key>Sort Name</key><string>Love and Hate</string>
+			<key>Persistent ID</key><string>5B58F766F478B721</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>313</key>
+		<dict>
+			<key>Track ID</key><integer>313</integer>
+			<key>Name</key><string>I Will Wait</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Mumford &#38; Sons</string>
+			<key>Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9713257</integer>
+			<key>Total Time</key><integer>276720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T18:31:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-08-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Mumford &#38; Sons</string>
+			<key>Sort Name</key><string>I Will Wait</string>
+			<key>Persistent ID</key><string>50B49BD0716C845F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>315</key>
+		<dict>
+			<key>Track ID</key><integer>315</integer>
+			<key>Name</key><string>To This Day</string>
+			<key>Artist</key><string>Shane Koyczan and the Short Story Long</string>
+			<key>Album Artist</key><string>Shane Koyczan and the Short Story Long</string>
+			<key>Composer</key><string>Shane Koyczan &#38; The Short Story Long</string>
+			<key>Album</key><string>Remembrance Year</string>
+			<key>Genre</key><string>Spoken Word</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>14225973</integer>
+			<key>Total Time</key><integer>417840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-11-02T21:31:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-03-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Remembrance Year</string>
+			<key>Sort Artist</key><string>Shane Koyczan and the Short Story Long</string>
+			<key>Sort Name</key><string>To This Day</string>
+			<key>Persistent ID</key><string>DC5EBD849D7BBF65</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>317</key>
+		<dict>
+			<key>Track ID</key><integer>317</integer>
+			<key>Name</key><string>Holland Road</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Mumford &#38; Sons</string>
+			<key>Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9015470</integer>
+			<key>Total Time</key><integer>253147</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T18:31:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-09-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Mumford &#38; Sons</string>
+			<key>Sort Name</key><string>Holland Road</string>
+			<key>Persistent ID</key><string>BEB011A3C045A763</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>319</key>
+		<dict>
+			<key>Track ID</key><integer>319</integer>
+			<key>Name</key><string>The Crickets Have Arthritis</string>
+			<key>Artist</key><string>Shane Koyczan and the Short Story Long</string>
+			<key>Album Artist</key><string>Shane Koyczan and the Short Story Long</string>
+			<key>Composer</key><string>Shane Koyczan</string>
+			<key>Album</key><string>A Pretty Decent Cape In My Closet</string>
+			<key>Genre</key><string>Spoken Word</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>15489879</integer>
+			<key>Total Time</key><integer>458507</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2014-10-28T15:17:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pretty Decent Cape In My Closet</string>
+			<key>Sort Artist</key><string>Shane Koyczan and the Short Story Long</string>
+			<key>Sort Name</key><string>Crickets Have Arthritis</string>
+			<key>Persistent ID</key><string>AB2147A6CC557221</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>321</key>
+		<dict>
+			<key>Track ID</key><integer>321</integer>
+			<key>Name</key><string>Ghosts That We Knew</string>
+			<key>Artist</key><string>Mumford &#38; Sons</string>
+			<key>Album Artist</key><string>Mumford &#38; Sons</string>
+			<key>Composer</key><string>Mumford &#38; Sons</string>
+			<key>Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11739649</integer>
+			<key>Total Time</key><integer>339720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T18:31:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2012-09-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Babel (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Mumford &#38; Sons</string>
+			<key>Sort Name</key><string>Ghosts That We Knew</string>
+			<key>Persistent ID</key><string>717CF52EDCA258FE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>323</key>
+		<dict>
+			<key>Track ID</key><integer>323</integer>
+			<key>Name</key><string>Your Bones</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters and Men</string>
+			<key>Composer</key><string>Ragnar rhallsson</string>
+			<key>Album</key><string>My Head Is an Animal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8937141</integer>
+			<key>Total Time</key><integer>249200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T17:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Head Is an Animal</string>
+			<key>Sort Artist</key><string>Of Monsters and Men</string>
+			<key>Sort Name</key><string>Your Bones</string>
+			<key>Persistent ID</key><string>57181C9A98AE8FAC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>325</key>
+		<dict>
+			<key>Track ID</key><integer>325</integer>
+			<key>Name</key><string>Six Weeks</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters and Men</string>
+			<key>Composer</key><string>Arnar Rósenkranz Hilmarsson &#38; Ragnar Þórhallsson</string>
+			<key>Album</key><string>My Head Is an Animal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11906612</integer>
+			<key>Total Time</key><integer>334240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T17:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Head Is an Animal</string>
+			<key>Sort Artist</key><string>Of Monsters and Men</string>
+			<key>Sort Name</key><string>Six Weeks</string>
+			<key>Persistent ID</key><string>73EB899E7E600833</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>327</key>
+		<dict>
+			<key>Track ID</key><integer>327</integer>
+			<key>Name</key><string>Love Love Love</string>
+			<key>Artist</key><string>Of Monsters and Men</string>
+			<key>Album Artist</key><string>Of Monsters and Men</string>
+			<key>Composer</key><string>Nanna Bryndís Hilmarsdóttir</string>
+			<key>Album</key><string>My Head Is an Animal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8406674</integer>
+			<key>Total Time</key><integer>238840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-02-13T04:26:46Z</date>
+			<key>Date Added</key><date>2012-11-22T17:26:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Head Is an Animal</string>
+			<key>Sort Artist</key><string>Of Monsters and Men</string>
+			<key>Sort Name</key><string>Love Love Love</string>
+			<key>Persistent ID</key><string>4F03CBFD4DFF3ADD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>441</integer>
+			<key>Playlist Persistent ID</key><string>AA54840127A1B42C</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>297</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>307</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>245</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>225</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>273</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>241</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>311</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>243</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>239</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>261</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>265</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>259</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>253</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>251</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>227</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>221</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>299</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>309</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>313</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>317</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>321</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>279</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>283</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>269</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>271</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>275</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>287</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>289</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>291</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>293</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>285</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>205</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>235</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>263</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>267</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>249</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>233</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>223</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>229</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>231</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>257</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>319</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>301</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>295</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>303</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>277</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>281</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>255</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>153</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
